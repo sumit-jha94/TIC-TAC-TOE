@@ -1,5 +1,5 @@
 import React  from 'react';
-import Square from './Square';
+import Square from '../Square';
 
 const Board = ({ board, handleSquareClick }) => {
   
